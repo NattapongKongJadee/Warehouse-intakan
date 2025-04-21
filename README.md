@@ -24,14 +24,27 @@ It helps manage stock movement for HVAC and structural items such as ducts, stee
 ## Picture
 <img width="800" alt="Screenshot 2568-04-21 at 09 17 53" src="https://github.com/user-attachments/assets/b40d88ac-351d-403b-991d-47a10b3a6e42" />
 <img width="800" alt="Screenshot 2568-04-21 at 09 17 59" src="https://github.com/user-attachments/assets/bdaa91af-26d9-43dd-87ac-8d2aaf3b3ac9" />
+<img width="350" height="700" alt="Mobile 2568-04-21 at 09 17 59" src="https://github.com/user-attachments/assets/7083d4af-c9a9-4f5f-a3da-983c97ea6271" />
+<img width="350" height="700" alt="Mobile 2568-04-21 at 09 17 59" src="https://github.com/user-attachments/assets/88424df6-7809-44a4-9d40-3bba2f770265" />
+<img width="350" height="700" alt="Mobile 2568-04-21 at 09 17 59" src="https://github.com/user-attachments/assets/cc4264c0-2fe8-43cd-abcd-752e86720221" />
+
+<img width="350" height="700" alt="Mobile 2568-04-21 at 09 17 59" src="https://github.com/user-attachments/assets/9861d5b9-08bc-4a4c-921b-73304fa4a857" />
+<br></br>
+
+
+
+
+
+
+
+
+[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
+[circleci-url]: https://circleci.com/gh/nestjs/nest
 
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
-
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
     <p align="center">
@@ -73,18 +86,3 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
