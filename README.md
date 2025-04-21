@@ -1,3 +1,31 @@
+# 🔧 Warehouse Tracking System (React + PWA + NestJS)
+
+This is a personal project developed to improve the workflow of my family business.  
+It helps manage stock movement for HVAC and structural items such as ducts, steel frames, and roof panels — ensuring better control, speed, and accuracy.
+
+## 🚀 Features
+
+- 📱 **Progressive Web App (PWA)**  
+  Optimized for mobile devices. Scan QR codes to quickly check items in/out.
+
+- ⚡ **Real-time Updates with Socket.IO**  
+  Built on NestJS, the backend sends instant updates across devices.
+
+- 🧾 **Multi-site Material Tracking**  
+  Track materials moving across different job sites with ease.
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Vite, PWA, Material UI  
+- **Backend:** NestJS, Socket.IO  
+- **Database:** PostgreSQL (optional)  
+- **QR Code Scanner:** `react-qr-barcode-scanner`
+
+## Picture
+<img width="800" alt="Screenshot 2568-04-21 at 09 17 53" src="https://github.com/user-attachments/assets/b40d88ac-351d-403b-991d-47a10b3a6e42" />
+<img width="800" alt="Screenshot 2568-04-21 at 09 17 59" src="https://github.com/user-attachments/assets/bdaa91af-26d9-43dd-87ac-8d2aaf3b3ac9" />
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -45,44 +73,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Run tests
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Deployment
-
-When you're ready to deploy your NestJS application to production, there are some key steps you can take to ensure it runs as efficiently as possible. Check out the [deployment documentation](https://docs.nestjs.com/deployment) for more information.
-
-If you are looking for a cloud-based platform to deploy your NestJS application, check out [Mau](https://mau.nestjs.com), our official platform for deploying NestJS applications on AWS. Mau makes deployment straightforward and fast, requiring just a few simple steps:
-
-```bash
-$ npm install -g mau
-$ mau deploy
-```
-
-With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
-
-## Resources
-
-Check out a few resources that may come in handy when working with NestJS:
-
-- Visit the [NestJS Documentation](https://docs.nestjs.com) to learn more about the framework.
-- For questions and support, please visit our [Discord channel](https://discord.gg/G7Qnnhy).
-- To dive deeper and get more hands-on experience, check out our official video [courses](https://courses.nestjs.com/).
-- Deploy your application to AWS with the help of [NestJS Mau](https://mau.nestjs.com) in just a few clicks.
-- Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
-- Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
-- To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
-- Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
 
 ## Support
 
